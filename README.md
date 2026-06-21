@@ -1,3 +1,5 @@
+THIS IS PUBLIC SAMPLE
+
 # BoatDiver — Login Workflow (minimal)
 
 This repository contains a minimal Flutter app that implements the login workflow (splash → welcome → login → new-account decision → role selection → forms → review → success).
